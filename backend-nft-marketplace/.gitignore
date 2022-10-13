@@ -1,4 +1,5 @@
 .encryptedKey.json
+.env
 # vscode
 .vscode
 
